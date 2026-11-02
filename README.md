@@ -13,7 +13,7 @@
 
 - 💻 Full Stack Developer working with **Python, Django, Frappe/ERPNext and TypeScript**
 - 🏢 Contributing at [@WalnutAppSuite](https://github.com/WalnutAppSuite) · [@UnityAppSuite](https://github.com/UnityAppSuite) · [@frappe](https://github.com/frappe)
-- 🔐 Interested in **security, automation and AI-powered tooling**
+- 🔐 Interested in **AI, Backend Developement, Automation and AI-powered tooling**
 - 📍 Based in Pune, India
 - 📫 Reach me at **ankitpatil.v@gmail.com**
 
